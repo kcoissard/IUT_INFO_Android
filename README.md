@@ -1,2 +1,7 @@
 # IUT_INFO_Android
-Application Android développée pour le cours d'android en DUT Informatique - Recense les séismes à travers le monde et le place sur une GoogleMap avec des infos sur les séismes
+
+Cadre : Cours DUT Informatique - Android (durée 20 heures)
+Projet : Application Android
+Technologies utilisées : Android
+But : Réaliser une application permettant de recenser les séismes à travers le monde et d'en préciser les caractèristiques
+Infos : Utilisation d'une API externe
